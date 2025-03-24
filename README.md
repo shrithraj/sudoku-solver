@@ -1,6 +1,7 @@
 🧩 Sudoku Solver & Generator 
 
 📌 Project Overview  
+
 This is a **Sudoku Solver & Puzzle Generator** built using **Python and Tkinter**. It allows users to:  
 ✅ Generate random Sudoku puzzles 🏆  
 ✅ Solve Sudoku automatically using **Backtracking Algorithm** 🧠  
@@ -10,6 +11,7 @@ This is a **Sudoku Solver & Puzzle Generator** built using **Python and Tkinter*
 
 
 🎯 Features 
+
 🔹 Random Puzzle Generation – Every puzzle is unique.  
 🔹 Sudoku Solver – Instantly solves any valid Sudoku.  
 🔹 GUI with Tkinter – User-friendly interface.  
@@ -27,6 +29,7 @@ This is a **Sudoku Solver & Puzzle Generator** built using **Python and Tkinter*
 
 
 🛠 Technologies Used
+
 - **Python** 🐍  
 - **Tkinter** (GUI)  
 - **Backtracking Algorithm** (for solving)  
