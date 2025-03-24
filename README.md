@@ -30,9 +30,3 @@ This is a **Sudoku Solver & Puzzle Generator** built using **Python and Tkinter*
 - **Tkinter** (GUI)  
 - **Backtracking Algorithm** (for solving)  
 - **Randomization** (for generating unique puzzles)  
-
-
-💡 Future Improvements
-🚀 **Difficulty Levels** (Easy, Medium, Hard)  
-🚀 **Step-by-step solving visualization**  
-🚀 **Sound effects & animations**  
