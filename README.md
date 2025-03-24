@@ -31,23 +31,6 @@ This is a **Sudoku Solver & Puzzle Generator** built using **Python and Tkinter*
 - **Backtracking Algorithm** (for solving)  
 - **Randomization** (for generating unique puzzles)  
 
----
-
-📥 Installation & Usage* 
-1️⃣ **Clone the repository** (or download the file manually):
-   ```sh
-   git clone https://github.com/your-username/sudoku-solver.git
-   cd sudoku-solver
-   ```
-2️⃣ **Run the script**:
-   ```sh
-   python sudoku_solver_gui.py
-   ```
-3️⃣ Enjoy solving Sudoku! 🎉  
-
----
-
-
 
 💡 Future Improvements
 🚀 **Difficulty Levels** (Easy, Medium, Hard)  
