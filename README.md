@@ -18,6 +18,7 @@ This is a **Sudoku Solver & Puzzle Generator** built using **Python and Tkinter*
 
 
 🖥️ How It Works
+
 1️⃣ Click **"Generate Puzzle"** → A **random Sudoku puzzle** appears.  
 2️⃣ Click **"Solve"** → The **AI solver fills in the correct solution**.  
 3️⃣ Click **"Clear"** → Reset the grid to start a new game.  
